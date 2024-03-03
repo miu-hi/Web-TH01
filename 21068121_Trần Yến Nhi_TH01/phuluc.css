@@ -1,0 +1,146 @@
+h1{color: red; font-size: 15px;} 
+.avt{
+    height: 100px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.viettien{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(1, 1, 153);
+}
+.gender{
+    text-align: center;
+}
+.box-nam{
+    font-size: 20px;
+    padding: 10px 22px;
+    margin-right: 30px;
+    background-color: black;
+    color: aliceblue;
+}
+.box-nu{
+    font-size: 20px;
+    padding: 10px 27px;
+    margin-right: 30px;
+    background-color: black;
+    color: aliceblue;
+}
+
+
+.tags{
+    font-size: 30px; 
+    margin-left: 100px; 
+    margin-bottom: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tag {
+    font-size: 15px;
+    margin-top: 15px; 
+    padding: 8px 20px;
+    color: aliceblue;
+    background-color: rgb(49, 220, 66);
+    border: none;
+    transform: translateX(50px);
+}
+.parag{
+    margin-left: 100px;
+    margin-right: 470px;
+   
+}  
+
+
+.tieu-de{
+    font-size: 30px; 
+    font-weight: 50;
+}
+.doc-them {
+    font-size: 12px;
+    padding: 10px 30px;
+    margin-right: 30px;
+    background-color: rgb(62, 138, 245);
+    color: aliceblue;
+    border: none;
+}
+ 
+
+.bai4{
+    text-align: center;
+    background-color: rgb(181, 181, 181);
+    padding: 10px 30px;
+    margin-left: 400px;
+    margin-right: 350px;
+}
+.join{
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 80px;
+}
+.loi-moi{
+    font-size: 28px;
+}
+.gui-loi-moi{
+    border: none;
+    color: #fff;
+    background-color: blue;
+    padding: 10px 30px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.in{
+    padding: 8px 50px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: none;
+}
+
+.bai5{
+    position: absolute;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 150px;
+    height: 300px;
+    width: 500px;
+    color: #fff;
+}
+.cofe{
+    height: 200px; 
+    width: 900px;
+    display: block;
+    margin-left: 200px;
+}
+.sign{
+    border: none;
+    background-color: red;
+    color: #fff;
+    padding: 18px 28px;
+    
+}
+
+.bai6{
+    position: absolute;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #fff;
+}
+.wrap{
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    grid-gap: 50px;
+}
+
+.people{
+    margin-left: 200px;
+}
+.univer{
+    height: 200px; 
+    width: 900px;
+    display: block;
+    margin-left: 200px;
+    margin-right: 200px;
+ }
+ .duoi{
+    color: yellow;
+ }
